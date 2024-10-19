@@ -1,4 +1,4 @@
-# Stack Calculator
+# Tetris Game
 
 
 [About](#dart-about) | [Description](#pencil2-description) | [Algorithm](#triangular_ruler-algorithm) | [Bash Example](#paperclip-bash-example) | [License](#page_with_curl-license)
@@ -18,16 +18,6 @@ To compile and run the server and client using the command line:
 ```bash
 # Compile the Java file
 javac Main.java
-
-# Run the server (example with argument ana without)
-java Main file.txt
-java Main
-
-# Input the commands and their parameters (example for run with argument)
-DEFINE a 4
-PUSH a
-SQRT
-PRINT
 ```
 
 ## :page_with_curl: License
